@@ -1,0 +1,48 @@
+header{
+    background-color: darkgreen;
+    height: 100px;
+    text-align: center;
+}
+nav{
+    background-color: darkkhaki;
+    height: 100px;
+    text-align: center;
+}
+
+.section-aside{
+    margin-top: 2%;
+    height: 400px;
+    overflow: hidden;
+}
+section{
+    background-color: darksalmon;
+    height: 400px;
+    width: 60%;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+}
+.article-top{
+    background-color: darkslateblue;
+    width: 90%;
+    height: 100px;
+    margin: 10% 5% 5% 5% ;
+}
+.article-bottom{
+    background-color: deeppink;
+    width: 90%;
+    height: 100px;
+    margin: 5% 5% 5% 5% ;
+}
+Aside{
+    background-color: gold;
+    height: 400px;
+    width: 35%;
+    text-align: center;
+    float: right;
+}
+footer{
+    background-color: darkorange;
+    height: 100px;
+    text-align: center;
+}
